@@ -1,3 +1,3 @@
 # Portable_C
 
-Portable getch() and clearscreen for Unix and Windows
+New headers with getch()/getche() and clearscreen for easy switch between Windows and Unix without use of restritcted OS headers
